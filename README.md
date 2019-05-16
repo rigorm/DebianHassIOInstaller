@@ -9,7 +9,7 @@ Virtual machine(VM) image based on Debian 9.9 including hassio installer
 <li>upon booting, the main partition will resize it self to the total space allows (if using LVM)</li>
 </ul>  
 
-### Insctructions:
+### Instructions:
   1. Uncompress file
   ``` bash
   gzip -dkcv filename.img.gz > filename.img
