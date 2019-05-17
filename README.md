@@ -7,7 +7,10 @@ Virtual machine(VM) image based on Debian 9.9 including hassio installer
 <li>image format in raw</li>
 <li>Uncompressed size is 1.5GB</li>
 <li>upon booting, the main partition will resize it self to the total space allowed (if using LVM)</li>
-</ul>  
+  <li>Credentials:<ul><li>User: root, Password: debian</li>
+    <li>User: debianuser, Password: debian</li>l</lu></li>
+</ul>
+
 
 ### Instructions:
   1. Uncompress file
